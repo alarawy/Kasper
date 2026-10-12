@@ -104,7 +104,7 @@ header .bars {
     min-height: 100vh;
     position: relative;
     top: -70px;
-    background: url("./IMG/landing.jpg");
+    background: url("/IMG/landing.jpg");
     background-size: cover;
 }
 .home i {
