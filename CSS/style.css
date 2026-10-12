@@ -236,7 +236,7 @@ header .bars {
 .design {
     height: 600px;
     margin-top: var(--section-padding);
-    background: url(./IMG/Kasper/shuffle-05.jpg) no-repeat;
+    background: url(/IMG/Kasper/shuffle-05.jpg) no-repeat;
     background-size: cover;
     display: flex;
     justify-content: space-between;
@@ -476,7 +476,7 @@ header .bars {
 }
 .about .title-about {
     padding: 50px;
-    background: url(./IMG/quote.jpg) no-repeat;
+    background: url(/IMG/quote.jpg) no-repeat;
     background-size: cover;
     text-align: center;
     color: var(--primary-color);
@@ -546,7 +546,7 @@ header .bars {
 }
 .pricing .subscribe {
     padding: 100px 0;
-    background: url(./IMG/subscribe.jpg) no-repeat;
+    background: url(/IMG/subscribe.jpg) no-repeat;
     background-size: cover;
     text-align: center;
 }
@@ -635,7 +635,7 @@ header .bars {
 /* Start Footer */
 footer {
     padding: 50px;
-    background: url(./IMG/subscribe.jpg) no-repeat;
+    background: url(/IMG/subscribe.jpg) no-repeat;
     background-size: cover;
     text-align: center;
 }
